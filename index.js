@@ -1,10 +1,10 @@
 var merge = require('utils-merge');
 var pathFn = require('path');
 
-var config = hexo.config.search_hr = merge({
+var config = hexo.config.search = merge({
 	path: 'search.xml',
 	field: 'post'
-}, hexo.config.search_hr);
+}, hexo.config.search);
 
 // Set default search path
 if (!config.path){
