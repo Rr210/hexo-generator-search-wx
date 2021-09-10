@@ -1,15 +1,12 @@
 {
   "_from": "hexo-generator-search-wx",
-  "_id": "hexo-generator-search-wx@0.0.2",
+  "_id": "hexo-generator-search-wx@0.0.3",
   "_inBundle": false,
-  "_integrity": "sha512-ojJT7huvda2F6rnv3pik4Yuk2Djj9iCDOucobynzbG8arQRqAyJf7wVDH3Hppr2vkpmigrLuPSXpuJCm2FbP2A==",
   "_location": "/hexo-generator-search-wx",
-  "_nodeVersion": "0.12.4",
   "_npmUser": {
     "name": "Rr210",
     "email": "iui9@qq.com"
   },
-  "_npmVersion": "2.11.0",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
@@ -25,8 +22,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/hexo-generator-search-wx/-/hexo-generator-search-wx-0.0.2.tgz",
-  "_shasum": "623d078f4a94fe282f76ea7284f38a58183565a7",
+  "_resolved": "https://registry.npmjs.org/hexo-generator-search-wx/download/hexo-generator-search-wx-0.0.3.tgz",
   "_spec": "hexo-generator-search-wx",
   "_where": "D:\\Github\\blog",
   "author": {
@@ -76,5 +72,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
